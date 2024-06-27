@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/probzAi/static/css/main.83db0fdf.css",
+    "main.js": "/probzAi/static/js/main.8af6e928.js",
+    "static/js/453.4144b960.chunk.js": "/probzAi/static/js/453.4144b960.chunk.js",
+    "index.html": "/probzAi/index.html",
+    "main.83db0fdf.css.map": "/probzAi/static/css/main.83db0fdf.css.map",
+    "main.8af6e928.js.map": "/probzAi/static/js/main.8af6e928.js.map",
+    "453.4144b960.chunk.js.map": "/probzAi/static/js/453.4144b960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83db0fdf.css",
+    "static/js/main.8af6e928.js"
+  ]
+}
