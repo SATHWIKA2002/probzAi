@@ -9,7 +9,7 @@ import './index.css'
 class Chart extends Component {
   state = {
     timeframe: 'daily',
-    filteredData: chartData.slice(0, 30)
+    filteredData: chartData
   }
 
   filterData = (timeframe) => {
@@ -23,7 +23,7 @@ class Chart extends Component {
         break;
       case 'daily':
       default:
-        filteredData = chartData.slice(0, 30);
+        filteredData = chartData
     }
     this.setState({
       timeframe,
